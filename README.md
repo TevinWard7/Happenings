@@ -10,7 +10,12 @@ A small web based app allowing a user to review and create quick info about loca
 - [Deployed Site](#Notes)
 
 # User Story
-
+```
+As person who likes to socialize 
+I want to be able to add friends and family to a friends list
+that enables me to share reviews of locations with them
+So that I can chat with them about places to meet and sites to enjoy 
+```
 
 # Technology
 
