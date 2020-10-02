@@ -35,6 +35,8 @@ Tevin Ward <br/>
 
 # Deployed Site
 
+![picture](/screen.png)
+
 Visit the following URL to open the application.
 
 https://what-happenings.herokuapp.com/
