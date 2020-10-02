@@ -35,7 +35,7 @@ Tevin Ward <br/>
 
 # Deployed Site
 
-![picture](/Screen Shot 2020-10-02 at 6.25.50 PM.png)
+![picture](/screen.png)
 
 Visit the following URL to open the application.
 
